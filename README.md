@@ -1,6 +1,8 @@
 # Make-Gamma-ICC
 Simple python script to make simple ICC profiles that change gamma values and nothing else for Wayland, replicating the xrandr --gamma R:G:B command
 
+# Disclaimer: This was written with Claude AI. It's a simple one shot script, so calm thy mammeries.
+
 # make_gamma_icc.py
 
 `python3 make_gamma_icc.py -h` for in-script help.
